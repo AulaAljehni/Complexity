@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LoanEvaluator.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+682f7cf8d1e2f3037b72fc16093102fb7f850e48")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7712d2f7919614d577d6b8dfa7217bfc948c4f8a")]
 [assembly: System.Reflection.AssemblyProductAttribute("LoanEvaluator.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LoanEvaluator.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

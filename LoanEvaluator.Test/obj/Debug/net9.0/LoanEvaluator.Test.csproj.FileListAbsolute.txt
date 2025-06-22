@@ -304,3 +304,4 @@ C:\Users\TCC\Desktop\LoanEvaluator\LoanEvaluator\LoanEvaluator.Test\obj\Debug\ne
 C:\Users\TCC\Desktop\LoanEvaluator\LoanEvaluator\LoanEvaluator.Test\obj\Debug\net9.0\LoanEvaluator.Test.pdb
 C:\Users\TCC\Desktop\LoanEvaluator\LoanEvaluator\LoanEvaluator.Test\obj\Debug\net9.0\LoanEvaluator.Test.genruntimeconfig.cache
 C:\Users\TCC\Desktop\LoanEvaluator\LoanEvaluator\LoanEvaluator.Test\obj\Debug\net9.0\ref\LoanEvaluator.Test.dll
+C:\Users\TCC\Desktop\LoanEvaluator\LoanEvaluator\LoanEvaluator.Test\obj\Debug\net9.0\LoanEvaluator.Test.sourcelink.json

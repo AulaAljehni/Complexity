@@ -1,6 +1,6 @@
 namespace LoanEvaluator
 {
-    public class LoanEvaluatorHelper
+    public class LoanEvaluator
     {
         public string GetLoanEligibility(int income, bool hasJob, int creditScore, int dependents, bool ownsHouse)
         {

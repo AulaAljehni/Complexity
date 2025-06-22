@@ -9,7 +9,7 @@ namespace LoanEvaluator.Test;
  [Fact]
         public void Test_LoanNotEligible_LowIncome()
         {
-            var evaluator = new LoanEvaluatorHelper();
+            var evaluator = new LoanEvaluator();
             var result = evaluator.GetLoanEligibility(1500, true, 650, 1, false);
             Assert.Equal("Not Eligible", result);
         }
@@ -17,7 +17,7 @@ namespace LoanEvaluator.Test;
         [Fact]
         public void Test_LoanEligible_WithJob_HighCreditScore_NoDependents()
         {
-            var evaluator = new LoanEvaluatorHelper();
+            var evaluator = new LoanEvaluator();
             var result = evaluator.GetLoanEligibility(3000, true, 750, 0, false);
             Assert.Equal("Eligible", result);
         }
@@ -25,7 +25,7 @@ namespace LoanEvaluator.Test;
         [Fact]
         public void Test_LoanReviewManually_WithJob_MediumCreditScore_TwoDependents()
         {
-            var evaluator = new LoanEvaluatorHelper();
+            var evaluator = new LoanEvaluator();
             var result = evaluator.GetLoanEligibility(3000, true, 700, 2, false);
             Assert.Equal("Review Manually", result);
         }
@@ -33,7 +33,7 @@ namespace LoanEvaluator.Test;
         [Fact]
         public void Test_LoanNotEligible_WithJob_LowCreditScore()
         {
-            var evaluator = new LoanEvaluatorHelper();
+            var evaluator = new LoanEvaluator();
             var result = evaluator.GetLoanEligibility(3000, true, 580, 1, false);
             Assert.Equal("Not Eligible", result);
         }
@@ -41,7 +41,7 @@ namespace LoanEvaluator.Test;
         [Fact]
         public void Test_LoanEligible_WithoutJob_HighCreditScore_OwnsHouse()
         {
-            var evaluator = new LoanEvaluatorHelper();
+            var evaluator = new LoanEvaluator();
             var result = evaluator.GetLoanEligibility(6000, false, 800, 0, true);
             Assert.Equal("Eligible", result);
         }
@@ -49,7 +49,7 @@ namespace LoanEvaluator.Test;
         [Fact]
         public void Test_LoanReviewManually_WithoutJob_MediumCreditScore_NoDependents()
         {
-            var evaluator = new LoanEvaluatorHelper();
+            var evaluator = new LoanEvaluator();
             var result = evaluator.GetLoanEligibility(4000, false, 670, 0, false);
             Assert.Equal("Review Manually", result);
         }
@@ -57,7 +57,7 @@ namespace LoanEvaluator.Test;
         [Fact]
         public void Test_LoanNotEligible_WithoutJob_LowCreditScore()
         {
-            var evaluator = new LoanEvaluatorHelper();
+            var evaluator = new LoanEvaluator();
             var result = evaluator.GetLoanEligibility(4000, false, 600, 1, false);
             Assert.Equal("Not Eligible", result);
         }
@@ -74,7 +74,7 @@ namespace LoanEvaluator.Test;
         int income, bool hasJob, int creditScore, int dependents, bool ownsHouse, string expected)
     {
 
-        var evaluator = new LoanEvaluatorHelper();
+        var evaluator = new LoanEvaluator();
         var result = evaluator.GetLoanEligibility(income, hasJob, creditScore, dependents, ownsHouse);
 
         

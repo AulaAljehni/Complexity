@@ -31,3 +31,4 @@ C:\Users\TCC\Desktop\LoanEvaluator\LoanEvaluator\LoanEvaluator.Core\obj\Debug\ne
 C:\Users\TCC\Desktop\LoanEvaluator\LoanEvaluator\LoanEvaluator.Core\obj\Debug\net9.0\refint\LoanEvaluator.Core.dll
 C:\Users\TCC\Desktop\LoanEvaluator\LoanEvaluator\LoanEvaluator.Core\obj\Debug\net9.0\LoanEvaluator.Core.pdb
 C:\Users\TCC\Desktop\LoanEvaluator\LoanEvaluator\LoanEvaluator.Core\obj\Debug\net9.0\ref\LoanEvaluator.Core.dll
+C:\Users\TCC\Desktop\LoanEvaluator\LoanEvaluator\LoanEvaluator.Core\obj\Debug\net9.0\LoanEvaluator.Core.sourcelink.json
