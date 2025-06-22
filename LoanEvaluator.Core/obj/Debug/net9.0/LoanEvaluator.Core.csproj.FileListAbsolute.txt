@@ -1,0 +1,33 @@
+C:\Users\HP\Desktop\هندسة\4\LoanEvaluator.Core\bin\Debug\net9.0\LoanEvaluator.Core.deps.json
+C:\Users\HP\Desktop\هندسة\4\LoanEvaluator.Core\bin\Debug\net9.0\LoanEvaluator.Core.dll
+C:\Users\HP\Desktop\هندسة\4\LoanEvaluator.Core\bin\Debug\net9.0\LoanEvaluator.Core.pdb
+C:\Users\HP\Desktop\هندسة\4\LoanEvaluator.Core\obj\Debug\net9.0\LoanEvaluator.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\هندسة\4\LoanEvaluator.Core\obj\Debug\net9.0\LoanEvaluator.Core.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\هندسة\4\LoanEvaluator.Core\obj\Debug\net9.0\LoanEvaluator.Core.AssemblyInfo.cs
+C:\Users\HP\Desktop\هندسة\4\LoanEvaluator.Core\obj\Debug\net9.0\LoanEvaluator.Core.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\هندسة\4\LoanEvaluator.Core\obj\Debug\net9.0\LoanEvaluator.Core.dll
+C:\Users\HP\Desktop\هندسة\4\LoanEvaluator.Core\obj\Debug\net9.0\refint\LoanEvaluator.Core.dll
+C:\Users\HP\Desktop\هندسة\4\LoanEvaluator.Core\obj\Debug\net9.0\LoanEvaluator.Core.pdb
+C:\Users\HP\Desktop\هندسة\4\LoanEvaluator.Core\obj\Debug\net9.0\ref\LoanEvaluator.Core.dll
+C:\Users\HP\Desktop\هندسة\وظيفة 4\LoanEvaluator\LoanEvaluator.Core\bin\Debug\net9.0\LoanEvaluator.Core.deps.json
+C:\Users\HP\Desktop\هندسة\وظيفة 4\LoanEvaluator\LoanEvaluator.Core\bin\Debug\net9.0\LoanEvaluator.Core.dll
+C:\Users\HP\Desktop\هندسة\وظيفة 4\LoanEvaluator\LoanEvaluator.Core\bin\Debug\net9.0\LoanEvaluator.Core.pdb
+C:\Users\HP\Desktop\هندسة\وظيفة 4\LoanEvaluator\LoanEvaluator.Core\obj\Debug\net9.0\LoanEvaluator.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\هندسة\وظيفة 4\LoanEvaluator\LoanEvaluator.Core\obj\Debug\net9.0\LoanEvaluator.Core.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\هندسة\وظيفة 4\LoanEvaluator\LoanEvaluator.Core\obj\Debug\net9.0\LoanEvaluator.Core.AssemblyInfo.cs
+C:\Users\HP\Desktop\هندسة\وظيفة 4\LoanEvaluator\LoanEvaluator.Core\obj\Debug\net9.0\LoanEvaluator.Core.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\هندسة\وظيفة 4\LoanEvaluator\LoanEvaluator.Core\obj\Debug\net9.0\LoanEvaluator.Core.dll
+C:\Users\HP\Desktop\هندسة\وظيفة 4\LoanEvaluator\LoanEvaluator.Core\obj\Debug\net9.0\refint\LoanEvaluator.Core.dll
+C:\Users\HP\Desktop\هندسة\وظيفة 4\LoanEvaluator\LoanEvaluator.Core\obj\Debug\net9.0\LoanEvaluator.Core.pdb
+C:\Users\HP\Desktop\هندسة\وظيفة 4\LoanEvaluator\LoanEvaluator.Core\obj\Debug\net9.0\ref\LoanEvaluator.Core.dll
+C:\Users\TCC\Desktop\LoanEvaluator\LoanEvaluator\LoanEvaluator.Core\bin\Debug\net9.0\LoanEvaluator.Core.deps.json
+C:\Users\TCC\Desktop\LoanEvaluator\LoanEvaluator\LoanEvaluator.Core\bin\Debug\net9.0\LoanEvaluator.Core.dll
+C:\Users\TCC\Desktop\LoanEvaluator\LoanEvaluator\LoanEvaluator.Core\bin\Debug\net9.0\LoanEvaluator.Core.pdb
+C:\Users\TCC\Desktop\LoanEvaluator\LoanEvaluator\LoanEvaluator.Core\obj\Debug\net9.0\LoanEvaluator.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TCC\Desktop\LoanEvaluator\LoanEvaluator\LoanEvaluator.Core\obj\Debug\net9.0\LoanEvaluator.Core.AssemblyInfoInputs.cache
+C:\Users\TCC\Desktop\LoanEvaluator\LoanEvaluator\LoanEvaluator.Core\obj\Debug\net9.0\LoanEvaluator.Core.AssemblyInfo.cs
+C:\Users\TCC\Desktop\LoanEvaluator\LoanEvaluator\LoanEvaluator.Core\obj\Debug\net9.0\LoanEvaluator.Core.csproj.CoreCompileInputs.cache
+C:\Users\TCC\Desktop\LoanEvaluator\LoanEvaluator\LoanEvaluator.Core\obj\Debug\net9.0\LoanEvaluator.Core.dll
+C:\Users\TCC\Desktop\LoanEvaluator\LoanEvaluator\LoanEvaluator.Core\obj\Debug\net9.0\refint\LoanEvaluator.Core.dll
+C:\Users\TCC\Desktop\LoanEvaluator\LoanEvaluator\LoanEvaluator.Core\obj\Debug\net9.0\LoanEvaluator.Core.pdb
+C:\Users\TCC\Desktop\LoanEvaluator\LoanEvaluator\LoanEvaluator.Core\obj\Debug\net9.0\ref\LoanEvaluator.Core.dll
